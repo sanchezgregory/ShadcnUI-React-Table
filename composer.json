@@ -1,0 +1,16 @@
+{
+    "name": "openai/aiapi",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Openai\\Aiapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gregory Sanchez",
+            "email": "mcgregox@gmail.com"
+        }
+    ],
+    "require": {}
+}
